@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "vr-k1-s1-l670",
+      "title": "The Question Worth Asking",
+      "sourceWork": "valmikiRamayana",
+      "originalLanguage": "sanskrit",
+      "editorialStatus": "published",
+      "rightsStatus": "publicDomain",
+      "kanda": "Bala Kanda",
+      "chapter": "1",
+      "verse": "1.1.1-5",
+      "originalScript": "Devanagari",
+      "originalScriptText": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् |\nनारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् || १||\nको न्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् |\nधर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः || २||\nचारित्रेण च को युक्तः सर्वभूतेषु को हितः |\nविद्वान्कः कः समर्थश्च कश्चैकप्रियदर्शनः || ३||\nआत्मवान्को जितक्रोधो मतिमान्कोऽनसूयकः |\nकस्य बिभ्यति देवाश्च जातरोषस्य संयुगे || ४||\nएतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे |\nमहर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् || ५||",
+      "transliteration": "tapaḥsvādhyāyanirataṃ tapasvī vāgvidāṃ varam | nāradaṃ paripapraccha vālmīkirmunipuṅgavam || 1 ||\nko nvasminsāmprataṃ loke guṇavānkaśca vīryavān | dharmajñaśca kṛtajñaśca satyavākyo dṛḍhavrataḥ || 2 ||\ncāritreṇa ca ko yuktaḥ sarvabhūteṣu ko hitaḥ | vidvānkaḥ kaḥ samarthaśca kaścaikapriyadarśanaḥ || 3 ||\nātmavānko jitakrodho matimānko'nasūyakaḥ | kasya bibhyati devāśca jātaroṣasya saṃyuge || 4 ||\netadicchāmyahaṃ śrotuṃ paraṃ kautūhalaṃ hi me | maharṣe tvaṃ samartho'si jñātumevaṃvidhaṃ naram || 5 ||",
+      "transliterationScheme": "IAST",
+      "translationEn": {
+        "text": "To sainted Nárad, prince of those\nWhose lore in words of wisdom flows.\nWhose constant care and chief delight\nWere Scripture and ascetic rite,\nThe good Válmíki, first and best\nOf hermit saints, these words addressed:\n“In all this world, I pray thee, who\nIs virtuous, heroic, true?\nFirm in his vows, of grateful mind,\nTo every creature good and kind?\nBounteous, and holy, just, and wise,\nAlone most fair to all men’s eyes?\nDevoid of envy, firm, and sage,\nWhose tranquil soul ne’er yields to rage?\nWhom, when his warrior wrath is high,\nDo Gods embattled fear and fly?\nWhose noble might and gentle skill\nThe triple world can guard from ill?\nWho is the best of princes, he\nWho loves his people’s good to see?\nThe store of bliss, the living mine\nWhere brightest joys and virtues shine?\nQueen Fortune’s best and dearest friend,\nWhose steps her choicest gifts attend?\nWho may with Sun and Moon compare,\nWith Indra, Vishṇu, Fire, and Air?\nGrant, Saint divine, the boon I ask,\nFor thee, I ween, an easy task,\nTo whom the power is given to know\nIf such a man breathe here below.”"
+      },
+      "explanation": "The epic opens with a question, not a battle. The sage Valmiki asks the divine sage Narada to name a person who is truly virtuous, capable, grateful, truthful, steady in his vows, kind to all beings and free of envy and anger. Narada's reply, which follows in the same sarga, introduces Rama.",
+      "lifeApplication": "Before judging anyone by success or power, it helps to ask what qualities we actually admire: honesty, gratitude, self-control, care for others. Naming them clearly makes them easier to practise.",
+      "reflectionPrompt": "Which one quality from this list would you most like to grow in yourself this week, and what is one small action that practises it?",
+      "themes": [],
+      "characters": []
+    }
+  ]
+}
